@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Nishchal1203
 - 👀 I’m interested in Artificial Intelligence and machine learning 
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collabarate on my startup idea 
+- 💞️ I’m looking to work with python
+-  
 - 📫 How to reach me sharmanischal004@gmail.com
 
 <!---
