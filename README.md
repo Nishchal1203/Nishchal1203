@@ -1,151 +1,169 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Nishchal%20Sharma&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20%7C%20ML%20Engineer%20%7C%20Full%20Stack&descAlignY=58&descSize=18&descColor=a0c4d8)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:ff6b6b,50:ffd93d,100:6bcb77&height=220&section=header&text=Nishchal%20Sharma&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Backend%20Dev%20%7C%20API%20Wizard%20%7C%20Cloud%20Tinkerer%20%E2%9A%99%EF%B8%8F&descAlignY=60&descSize=17&descColor=ffffff&animation=fadeIn)
 
 </div>
 
-<br/>
+<div align="center">
 
-<table align="center">
-<tr>
-<td>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&width=700&lines=hey+i+build+backends+that+don't+break+%F0%9F%94%A5;FastAPI+%2B+Django+%2B+Flask+enjoyer+%F0%9F%90%8D;PostgreSQL+whisperer+%F0%9F%97%84%EF%B8%8F;AWS+%26+GCP+cloud+surfer+%E2%98%81%EF%B8%8F;currently+SDE+intern+@+Thoughtswin+%F0%9F%9A%80;also+yes+i+am+Iron+Man+%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5)](https://git.io/typing-svg)
 
-```yaml
-Name       : Nishchal Sharma
-Role       : Python Developer & ML Engineer
-Location   : India 🇮🇳
-Focus      : Python · ML · Full Stack Development
-Current    : Building Zets
-Contact    : sharmanischal004@gmail.com
-Fun Fact   : I think I am Iron Man ⚙️
+</div>
+
+---
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+### `whoami` 👾
+
+```python
+nishchal = {
+  "name"      : "Nishchal Sharma",
+  "vibe"      : "backend dev by day, bug fixer by night 🌙",
+  "education" : "B.Tech CSE @ Poornima (Cyber Security) 🎓",
+  "cgpa"      : 8.6,
+  "currently" : "SDE Intern @ Thoughtswin Systems 🏢",
+  "building"  : "Zets 🚀",
+  "stack"     : ["FastAPI", "Django", "Flask", "Next.js", "React"],
+  "clouds"    : ["AWS ☁️", "GCP ☁️"],
+  "databases" : ["PostgreSQL", "MySQL", "Firebase", "SQLite"],
+  "tools"     : ["Docker 🐳", "Postman", "Git", "CI/CD", "Jira"],
+  "certified" : "NVIDIA Prompt Engineer 🏅 | SIH 2023 winner 🏆",
+  "fun_fact"  : "i am iron man ⚙️❤️",
+  "ask_me"    : "anything python or backend related no cap 🫡",
+}
 ```
 
-</td>
-</tr>
-</table>
-
-<br/>
+<br clear="right"/>
 
 ---
 
-## 🎯 Currently Working On
+## 💼 work experience
 
-<div align="center">
-
-| Project | Domain | Status |
-|--------|--------|--------|
-| **Zets** | Python / Full Stack | 🟢 Active |
-| **ML Experiments** | Machine Learning | 🟡 Ongoing |
-| **Flutter Apps** | Mobile Dev | 🔵 Learning |
-
-</div>
+| 🏢 Company | 📅 Duration | 🎯 Role |
+|-----------|------------|--------|
+| **Thoughtswin Systems** | Sep 2025 – Present | SDE Intern |
+| **Celebal Technologies** | May – Jul 2025 | Data Science Intern |
+| **Brudite Pvt Ltd** | Jul – Oct 2024 | Associate Software Intern |
 
 ---
 
-## 📚 Currently Learning
+## 🚀 what i actually build
 
-<div align="center">
+> **scalable backends. clean apis. things that don't fall over at 3am.**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-</div>
+- 🔧 Built a task automation backend with **Flask + PostgreSQL + Redis + Celery** with role-based access & JWT auth
+- 🏥 Engineered a **Django** healthcare backend — external API integrations, complex health report analysis
+- 🐳 **Dockerized** everything for seamless deployment across environments
+- ✅ Input validation with **Pydantic**, version control with Git like a chad
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ tech i vibe with
 
-### Languages
+### ⚡ Backend Frameworks
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### 🎨 Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### AI / Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-
-### Full Stack & Tools
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-239120?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 github numbers go brrr
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nishchal1203&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishchal1203&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170"/>
+<a href="https://github.com/nishchal1203">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nishchal1203&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nishchal1203&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+</a>
 
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishchal1203&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%"/>
-
+  <img src="https://streak-stats.demolab.com?user=nishchal1203&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="68%"/>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 trophies (yes i collect them)
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=nishchal1203&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=nishchal1203&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
+</a>
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 watch my contributions get eaten
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishchal1203/nishchal1203/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nishchal1203/nishchal1203/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/nishchal1203/nishchal1203/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/nishchal1203/nishchal1203/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
-
-> **Setup:** Add the [Platane/snk GitHub Action](https://github.com/Platane/snk) to your profile repo to activate the snake animation.
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 activity graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nishchal1203&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
 
----
+[![Nishchal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nishchal1203&theme=redical&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## ✍️ Blog
-
-- 📝 [Should I Buy Electric Vehicles?](https://electricemmisions.blogspot.com/2022/09/should-i-buy-electric-vehicles.html) — *Electric Emissions Blog*
+</div>
 
 ---
 
-## 🤝 Connect
+## 🎓 certs & achievements
+
+- 🟢 **NVIDIA Certified Prompt Engineer**
+- 🏆 **Smart India Hackathon (SIH) 2023**
+- 🐍 **Python Programming Training**
+
+---
+
+## 📬 find me on the internet
 
 <div align="center">
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/nischal1203)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishchal-sharma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishchal-sharma)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nischal_.12)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/nishchal-sharma)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/nishchal-sharma)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmanischal004@gmail.com)
 
 </div>
@@ -153,11 +171,17 @@ Fun Fact   : I think I am Iron Man ⚙️
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nishchal1203&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=nishchal1203&label=profile+views&color=ff6b6b&style=for-the-badge)
+
+<br/><br/>
+
+**"part of the journey is the end."** — Tony Stark 🤍
+
 </div>
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6bcb77,50:ffd93d,100:ff6b6b&height=120&section=footer)
 
 </div>
