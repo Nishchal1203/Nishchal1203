@@ -22,13 +22,13 @@ nishchal = {
   "vibe"      : "backend dev by day, bug fixer by night 🌙",
   "education" : "B.Tech CSE @ Poornima (Cyber Security) 🎓",
   "cgpa"      : 8.6,
-  "currently" : "SDE Intern @ Thoughtswin Systems 🏢",
-  "building"  : "Zets 🚀",
-  "stack"     : ["FastAPI", "Django", "Flask", "Next.js", "React"],
+  "currently" : "SDE @ Thoughtswin Systems 🏢",
+  "building"  : " Cool Stuff which never existed on Internet",
+  "stack"     : ["FastAPI", "Java","Django", "Flask", "Next.js", "React"],
   "clouds"    : ["AWS ☁️", "GCP ☁️"],
   "databases" : ["PostgreSQL", "MySQL", "Firebase", "SQLite"],
   "tools"     : ["Docker 🐳", "Postman", "Git", "CI/CD", "Jira"],
-  "certified" : "NVIDIA Prompt Engineer 🏅 | SIH 2023 winner 🏆",
+  "certified" : "NVIDIA Prompt Engineer 🏅" | "Databricks Certified Associate Generatinve AI Engineer 🏅" | "SIH 2023 winner 🏆",
   "fun_fact"  : "i am iron man ⚙️❤️",
   "ask_me"    : "anything python or backend related no cap 🫡",
 }
@@ -42,7 +42,7 @@ nishchal = {
 
 | 🏢 Company | 📅 Duration | 🎯 Role |
 |-----------|------------|--------|
-| **Thoughtswin Systems** | Sep 2025 – Present | SDE Intern |
+| **Thoughtswin Systems** | Sep 2025 – Present | SDE |
 | **Celebal Technologies** | May – Jul 2025 | Data Science Intern |
 | **Brudite Pvt Ltd** | Jul – Oct 2024 | Associate Software Intern |
 
