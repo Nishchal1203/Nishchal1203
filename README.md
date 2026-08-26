@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&width=700&lines=hey+i+build+backends+that+don't+break+%F0%9F%94%A5;FastAPI+%2B+Django+%2B+Flask+enjoyer+%F0%9F%90%8D;PostgreSQL+whisperer+%F0%9F%97%84%EF%B8%8F;AWS+%26+GCP+cloud+surfer+%E2%98%81%EF%B8%8F;currently+SDE+intern+@+Thoughtswin+%F0%9F%9A%80;also+yes+i+am+Iron+Man+%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&width=700&lines=hey+i+build+backends+that+don't+break+%F0%9F%94%A5;FastAPI+%2B+Django+%2B+Flask+enjoyer+%F0%9F%90%8D;PostgreSQL+whisperer+%F0%9F%97%84%EF%B8%8F;AWS+%26+GCP+cloud+surfer+%E2%98%81%EF%B8%8F;currently+SDE+at+@+Thoughtswin+%F0%9F%9A%80;also+yes+i+am+Iron+Man+%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5)](https://git.io/typing-svg)
 
 </div>
 
